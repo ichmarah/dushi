@@ -11,3 +11,7 @@ like "Delicious":
 like "Good":
 "I'm feeling DUSHI today."
 "Life is so DUSHI."
+
+like the song:
+"Ay ayay, nos tin DUSHI bida."
+("Ay ayay, we have a DUSHI life."
